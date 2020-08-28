@@ -1,5 +1,5 @@
 def insertNodeAtPosition(head, data, position):
-
+	
     node = SinglyLinkedListNode(data)
     count = 0
     curr = head

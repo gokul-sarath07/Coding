@@ -1,5 +1,5 @@
 def findMergeNode(head1, head2):
-
+	
     p = head1
     q = head2
     val1 = []

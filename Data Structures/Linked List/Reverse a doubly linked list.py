@@ -1,5 +1,5 @@
 def reverse(head):
-
+	
     temp = None
     curr = head
     while curr:

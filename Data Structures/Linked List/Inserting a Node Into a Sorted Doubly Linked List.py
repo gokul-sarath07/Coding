@@ -1,5 +1,5 @@
 def sortedInsert(head, data):
-
+	
     p = head
     q = head.next
     new_node = DoublyLinkedListNode(data)

@@ -12,7 +12,6 @@
 - [Decimal To Binary]
 - [Get Minimum Element From Stack]
 - [Maximum Element]
-
 - [BST Traversals]
 - [Branch Sum]
 - [Caesar Cipher Encryptor]
@@ -88,7 +87,7 @@
 [Insert A Node At A Specific Position In A Linked List]: https://github.com/gokul-sarath07/Coding/blob/master/Data%20Structures/Linked%20List/Insert%20a%20node%20at%20a%20specific%20position%20in%20a%20linked%20list.py
 [Inserting A Node Into A Sorted Doubly Linked List]: https://github.com/gokul-sarath07/Coding/blob/master/Data%20Structures/Linked%20List/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List.py
 [Detect A Cycle In A Linked List]: https://github.com/gokul-sarath07/Coding/blob/master/Data%20Structures/Linked%20List/Linked%20Lists%20-%20Detect%20a%20Cycle.py
-[Reverse A Doubly Linked Llist]: https://github.com/gokul-sarath07/Coding/blob/master/Data%20Structures/Linked%20List/Reverse%20a%20doubly%20linked%20list.py
+[Reverse A Doubly Linked List]: https://github.com/gokul-sarath07/Coding/blob/master/Data%20Structures/Linked%20List/Reverse%20a%20doubly%20linked%20list.py
 
 [Bubble Sort]: https://github.com/gokul-sarath07/Coding/blob/master/Algorithm/BubbleSort.py
 [Insertion Sort]: https://github.com/gokul-sarath07/Coding/blob/master/Algorithm/InsertionSort.py
